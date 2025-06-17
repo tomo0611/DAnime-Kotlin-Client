@@ -104,7 +104,7 @@ https://animestore.docomo.ne.jp/animestore/mpa_hst_pc?workType=0
 
 ### My List
 https://animestore.docomo.ne.jp/animestore/mpa_mylists_pc   
-(詳細) https://animestore.docomo.ne.jp/animestore/mpa_shr_pc?shareListId=X0yzJFBrAvks5bFQ
+(Detail) https://animestore.docomo.ne.jp/animestore/mpa_shr_pc?shareListId=X0yzJFBrAvks5bFQ
 
 ### Completed Anime (Viewed all episodes)
 https://animestore.docomo.ne.jp/animestore/mpa_cmp_pc
